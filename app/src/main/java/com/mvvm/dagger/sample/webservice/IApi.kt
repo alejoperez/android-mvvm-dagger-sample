@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.webservice
 
-import android.arch.lifecycle.LiveData
+import androidx.lifecycle.LiveData
 import com.mvvm.dagger.sample.data.room.Photo
 import com.mvvm.dagger.sample.data.room.Place
 import com.mvvm.dagger.sample.livedata.Event

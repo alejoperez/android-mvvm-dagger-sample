@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.places
 
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.ViewModel
 import com.mvvm.dagger.sample.di.FragmentScope
 import com.mvvm.dagger.sample.di.ViewModelKey
 import dagger.Binds

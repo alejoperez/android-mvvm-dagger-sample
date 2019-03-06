@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.databinding
 
-import android.databinding.BindingAdapter
+import androidx.databinding.BindingAdapter
 import android.text.InputFilter
 import android.widget.EditText
 import android.widget.ImageView

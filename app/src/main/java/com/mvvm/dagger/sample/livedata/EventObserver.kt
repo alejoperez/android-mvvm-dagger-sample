@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.livedata
 
-import android.arch.lifecycle.Observer
+import androidx.lifecycle.Observer
 
 
 /**

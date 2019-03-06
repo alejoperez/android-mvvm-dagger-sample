@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.livedata
 
-import android.arch.lifecycle.LiveData
+import androidx.lifecycle.LiveData
 
 import java.lang.reflect.ParameterizedType
 import java.lang.reflect.Type

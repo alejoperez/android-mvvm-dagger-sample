@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.splash
 
-import android.arch.lifecycle.ViewModel
+import androidx.lifecycle.ViewModel
 import com.mvvm.dagger.sample.di.ActivityScope
 import com.mvvm.dagger.sample.di.ViewModelKey
 import dagger.Binds

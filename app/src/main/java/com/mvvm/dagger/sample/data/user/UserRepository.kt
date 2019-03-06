@@ -1,6 +1,6 @@
 package com.mvvm.dagger.sample.data.user
 
-import android.arch.lifecycle.LiveData
+import androidx.lifecycle.LiveData
 import android.content.Context
 import com.mvvm.dagger.sample.data.BaseRepositoryModule
 import com.mvvm.dagger.sample.data.room.User
